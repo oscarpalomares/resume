@@ -1,3 +1,3 @@
-# Mi Curriculum
+# My Resume
 
-Puedes ver mi [curriculum en formato PDF](./CV-OscarPalomares-English2.pdf) aquí.
+[Click here to see my Resume.](./CV-OscarPalomares-English2.pdf)
